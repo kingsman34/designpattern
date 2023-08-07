@@ -1,5 +1,4 @@
 package AdapterPattern;
-
 public class Client {
     public static void main(String[] args){
         AudioPlayer audioPlayer = new AudioPlayer();
